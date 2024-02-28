@@ -1,12 +1,43 @@
 html {
     text-align: center;
     color: darkslategray;
-    background-color: azure;
+    background-color: darkgray;
 
+}
+
+h1{
+    color: aliceblue;
+    background-color: black;
+
+}
+
+#selected {
+    color: blue;
+  }
+
+h3{
+    color: aliceblue;
+    background-color: black;
+}
+
+h4{
+    color: black;
+    background-color: gray;
+}
+
+body{
+    color: black;
+}
+
+a:-webkit-any-link{
+    color: white;
+    text-decoration: none;
+    background-color: grey;
+    
 }
 
 img{
     /*width: px;*/
-    height: 1080px;
+    height: 270px;
     
 }
