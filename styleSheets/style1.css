@@ -39,5 +39,5 @@ a:-webkit-any-link{
 img{
     /*width: px;*/
     height: 540px;
-    
+    outline: auto;
 }
